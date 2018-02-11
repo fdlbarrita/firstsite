@@ -1,0 +1,80 @@
+h1 {
+  color: red;
+}
+H2 {
+  color: black;
+}
+h3{
+  color: black;
+}
+/* span{
+  font-size: 100px;
+} */
+
+div {
+  background-color: pink;
+  height: 200px;
+  width: 300px;
+  float: left;
+  margin-right: 10px;
+}
+
+.one {
+  background-color: grey;
+}
+
+.two{
+  height: 500px;
+}
+/* use a hash tag to use an id  */
+#three {
+  width: 100px ;
+}
+
+/* @font-face{
+display: inline;
+color: red;
+
+}
+h2 {
+  background-color: rgba(0, 0, 0, .5);
+  height: 100px;
+  width: 100px;
+  display: inline;
+
+}
+h3 {
+  background-color: blue;
+  width: 100px;
+  height: 100px;
+position: absolute;
+margin margin-left: 5%;
+z-index: -1;
+display: inline;
+}
+#center{
+  width: 30%;
+  margin: auto;
+}
+body{
+  margin: 0;
+}
+p{
+  font-family: 'Play', sans-serif;
+}
+p{font-family: 'Play', sans-serif;
+font-family: 'Orbitron', sans-serif;
+
+}
+p{ font-family: 'Play', sans-serif;
+  font-family: 'Orbitron', sans-serif;
+ font-family: 'Russo One', sans-serif;
+}
+
+P{font-family:'StarWars';
+
+}
+
+/*img {
+  vertical-align: center;
+}*/
